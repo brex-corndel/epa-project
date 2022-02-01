@@ -76,6 +76,16 @@ Python/Jinka
 
 https://console.uk-london-1.oraclecloud.com/
 
+jeremys-Air:~ jeremybrex$ oci --version
+3.4.4
+oci setup config
+
+Tenancy     : jeremybrex
+Compartment : eps_user 
+Region      : 32: uk-london-1
+API Signing RSA key pair - /Users/jeremybrex/.oci
+
+
 # Source Control
 
 Git
