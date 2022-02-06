@@ -21,6 +21,14 @@ brew services start jenkins-lts
 brew services info jenkins-lts
 brew services reload jenkins-lts
 
+# Webhooks Relay
+
+Used to link Github to jenkins on localhost
+
+https://my.webhookrelay.com/register
+
+...
+
 # CI/CD Pipelines
 
 Jenkins
@@ -131,3 +139,7 @@ opc user is created automatically in Oracle Cloud
 
 Jira
 Confluence
+
+# GIT To Jenkins
+
+Added link to push Git to Docker as a pipeline in Jenkins
